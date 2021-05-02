@@ -19,8 +19,6 @@ export const Join = () => {
 
   const handleForm = (e) => {
     e.preventDefault();
-    console.log(info.user);
-    console.log(info.room);
   };
 
 
