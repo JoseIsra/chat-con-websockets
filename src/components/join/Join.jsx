@@ -19,6 +19,7 @@ export const Join = () => {
 
   const handleForm = (e) => {
     e.preventDefault();
+    console.log('assa');
   };
 
 
